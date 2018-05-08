@@ -1,0 +1,7 @@
+C:\Users\Fluff\Documents\wiltonbryanindividualwork\Arraylistcalculator\Arraylistcalculator\bin\Debug\Arraylistcalculator.exe.config
+C:\Users\Fluff\Documents\wiltonbryanindividualwork\Arraylistcalculator\Arraylistcalculator\bin\Debug\Arraylistcalculator.exe
+C:\Users\Fluff\Documents\wiltonbryanindividualwork\Arraylistcalculator\Arraylistcalculator\bin\Debug\Arraylistcalculator.pdb
+C:\Users\Fluff\Documents\wiltonbryanindividualwork\Arraylistcalculator\Arraylistcalculator\obj\Debug\Arraylistcalculator.csprojResolveAssemblyReference.cache
+C:\Users\Fluff\Documents\wiltonbryanindividualwork\Arraylistcalculator\Arraylistcalculator\obj\Debug\Arraylistcalculator.csproj.CoreCompileInputs.cache
+C:\Users\Fluff\Documents\wiltonbryanindividualwork\Arraylistcalculator\Arraylistcalculator\obj\Debug\Arraylistcalculator.exe
+C:\Users\Fluff\Documents\wiltonbryanindividualwork\Arraylistcalculator\Arraylistcalculator\obj\Debug\Arraylistcalculator.pdb
