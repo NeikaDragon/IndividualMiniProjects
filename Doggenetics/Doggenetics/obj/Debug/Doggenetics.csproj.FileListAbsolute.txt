@@ -1,0 +1,7 @@
+C:\Users\Fluff\Documents\wiltonbryanindividualwork\Doggenetics\Doggenetics\bin\Debug\Doggenetics.exe.config
+C:\Users\Fluff\Documents\wiltonbryanindividualwork\Doggenetics\Doggenetics\bin\Debug\Doggenetics.exe
+C:\Users\Fluff\Documents\wiltonbryanindividualwork\Doggenetics\Doggenetics\bin\Debug\Doggenetics.pdb
+C:\Users\Fluff\Documents\wiltonbryanindividualwork\Doggenetics\Doggenetics\obj\Debug\Doggenetics.csprojResolveAssemblyReference.cache
+C:\Users\Fluff\Documents\wiltonbryanindividualwork\Doggenetics\Doggenetics\obj\Debug\Doggenetics.csproj.CoreCompileInputs.cache
+C:\Users\Fluff\Documents\wiltonbryanindividualwork\Doggenetics\Doggenetics\obj\Debug\Doggenetics.exe
+C:\Users\Fluff\Documents\wiltonbryanindividualwork\Doggenetics\Doggenetics\obj\Debug\Doggenetics.pdb
